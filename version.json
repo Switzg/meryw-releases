@@ -1,5 +1,5 @@
 {
     "version": "1.2",
     "url": "https://github.com/Switzg/meryw-releases/releases/download/v1.2/Meryw_Setup.exe",
-    "changelog": "Nova função: *Organizar Automático*.\nComo funciona: salve o arquivo em PDF em alguma pasta segura do seu computador (pode ser Documentos), em seguida abre essa funcionalidade nova e execute!\nSerá criado e salvo em 2 pastas na pasta 'Downloads', terá o nome 'AP' e 'Notas'.\n\nAlteração no Layout."
+    "changelog": "Nova função: *Organizar Automático*.\nComo funciona: salve o arquivo em PDF em alguma pasta segura do seu computador (pode ser Documentos), em seguida abre essa funcionalidade nova e execute!\nSerá criado e salvo em 2 pastas na pasta 'Downloads', terá o nome 'AP' e 'Notas'.\n\n*Alteração de layout:* consolidação de três funcionalidades em uma única página, com o objetivo de otimizar o fluxo de uso e reduzir o tempo gasto na navegação entre telas."
 }
